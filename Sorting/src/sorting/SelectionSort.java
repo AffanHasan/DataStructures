@@ -11,7 +11,7 @@ package sorting;
  */
 public class SelectionSort {
 
-    //Sorts the int array
+//    Sorts the int array
     static void sort(int... arr) {
         int[] firstSmallestItem;
         int secondSmallestItemIndex;
